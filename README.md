@@ -9,14 +9,14 @@ A simple and intuitive web calculator built using HTML, CSS, and JavaScript. It 
   Tech Stack: HTML, CSS, JavaScript
   Features:
     Basic arithmetic operations
-    Responsive design for different screen sizes
+    Responsive design for different screen sizes<br/>
 2. Tribute Page
 This is a tribute page dedicated to a notable figure, created using HTML and CSS. The page tells a compelling story in a visually appealing way, bringing the figure's achievements and legacy to life.
 
   Tech Stack: HTML, CSS
   Features:
     Elegant layout
-    Fully responsive design
+    Fully responsive design<br/>
 3. To-Do Web App
 Stay organized with this interactive to-do list web application. Built using HTML, CSS, and JavaScript, the app allows users to add, edit, and remove tasks dynamically, making task management easier.
 
@@ -24,7 +24,7 @@ Stay organized with this interactive to-do list web application. Built using HTM
   Features:
     Add, edit, and delete tasks
     Real-time task updates
-    Responsive design
+    Responsive design<br/>
 4. Login Authentication System
 A secure login authentication system that ensures only authorized users can access certain sections of a website. It uses a combination of front-end and back-end technologies to authenticate users securely.
 
@@ -32,7 +32,7 @@ A secure login authentication system that ensures only authorized users can acce
   Features:
     User authentication and session management
     Secure password storage and validation
-    Basic user roles and access control
+    Basic user roles and access control<br/>
 Feedback
 
 Feel free to explore the projects and share your feedback. If you encounter any issues or have suggestions for improvement, don't hesitate to open an issue or contact me directly.
