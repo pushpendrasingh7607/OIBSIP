@@ -6,32 +6,32 @@ Projects
 1. Calculator
 A simple and intuitive web calculator built using HTML, CSS, and JavaScript. It allows you to perform basic arithmetic operations such as addition, subtraction, multiplication, and division.
 
-  Tech Stack: HTML, CSS, JavaScript
+  Tech Stack: HTML, CSS, JavaScript<br/>
   Features:
-    Basic arithmetic operations
+    Basic arithmetic operations<br/>
     Responsive design for different screen sizes<br/>
 2. Tribute Page
 This is a tribute page dedicated to a notable figure, created using HTML and CSS. The page tells a compelling story in a visually appealing way, bringing the figure's achievements and legacy to life.
 
-  Tech Stack: HTML, CSS
+  Tech Stack: HTML, CSS<br/>
   Features:
-    Elegant layout
+    Elegant layout<br/>
     Fully responsive design<br/>
 3. To-Do Web App
 Stay organized with this interactive to-do list web application. Built using HTML, CSS, and JavaScript, the app allows users to add, edit, and remove tasks dynamically, making task management easier.
 
-  Tech Stack: HTML, CSS, JavaScript
+  Tech Stack: HTML, CSS, JavaScript<br/>
   Features:
-    Add, edit, and delete tasks
-    Real-time task updates
+    Add, edit, and delete tasks,br/>
+    Real-time task updates<br/>
     Responsive design<br/>
 4. Login Authentication System
 A secure login authentication system that ensures only authorized users can access certain sections of a website. It uses a combination of front-end and back-end technologies to authenticate users securely.
 
-  Tech Stack: HTML, CSS, JavaScript, Back-end Technology (Node.js, PHP, or Python)
+  Tech Stack: HTML, CSS, JavaScript, Back-end Technology (Node.js, PHP, or Python)<br/>
   Features:
-    User authentication and session management
-    Secure password storage and validation
+    User authentication and session management<br/>
+    Secure password storage and validation<br/>
     Basic user roles and access control<br/>
 Feedback
 
