@@ -1,0 +1,48 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #0bdb5a;
+    color: #333;
+    line-height: 1.6;
+}
+
+header {
+    background-color: #238712;
+    color: rgb(205, 46, 46);
+    padding: 10px 0;
+    text-align: center;
+}
+
+h1 {
+    font-size: 2.5em;
+}
+
+.intro,
+.achievements,
+.impact {
+    padding: 20px;
+    margin: 15px;
+    border-radius: 8px;
+    background-color: #eb0d0d;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+}
+
+.profile-pic {
+    max-width: 100px;
+    border-radius: 50%;
+    display: block;
+    margin: 10px auto;
+}
+
+h2 {
+    color: #9146b4;
+}
+
+footer {
+    text-align: center;
+    padding: 10px 0;
+    background: #4682b4;
+    color: white;
+    position: relative;
+    bottom: 0;
+    width: 50%;
+}
